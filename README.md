@@ -1,1 +1,1 @@
-# SQL
+# SQL This repository contains a collection of SQL queries that demonstrate the creation of a database, tables, and insertion of data. The queries are designed to manage student information for a class.
